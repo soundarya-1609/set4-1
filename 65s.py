@@ -1,0 +1,2 @@
+yupi=input()
+print(yupi
